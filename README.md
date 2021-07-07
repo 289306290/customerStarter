@@ -1,0 +1,3 @@
+# customerStarter
+自定义一个spring-boot-starter的简单示例
+注意最后spring.factories中的配置,如果最终引用这个starter的项目和starer的包名都一致，其实这里不需要配置spring.factories,但是以防包不一致的情况(而且大多数时候不一致)，所以这里还是需要配置spring.factories的
